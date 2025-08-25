@@ -40,3 +40,11 @@ Basic networking knowledge (ARP, MAC tables, troubleshooting commands)
 ## 🏆 Future Labs
 
 More labs/missions will be added soon. Stay tuned.
+
+---
+
+## 📜 License
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+You are free to share and adapt the material, but you must give proper credit.  
+
+🔗 [View License](https://creativecommons.org/licenses/by/4.0/)
