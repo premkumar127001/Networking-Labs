@@ -12,9 +12,11 @@ The goal is simple: make learning **networking fun, practical, and adventurous**
 
 ## 📂 Available Labs  
 
-### 1. 🗝️ [Operation-Key](./Operation-Key)  
-The first mission in the series.  
-Track down the villain Mr. Blue, recover the stolen Key, and complete your mission.  
+### 1. 🧠 [Operation-Recall](./Operation-Recall)  
+Your memory is fractured after a mission accident. Complete basic networking drills — connect local networks, link different sites, and restore communication to recover your skills. 
+
+### 2. 🗝️ [Operation-Key](./Operation-Key)  
+A stolen Key is hidden in the network. Track down the villain Mr. Blue, recover the code, and complete your mission.  
 
 ---
 
