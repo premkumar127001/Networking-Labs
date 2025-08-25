@@ -27,6 +27,18 @@ Each completed exercise restores fragments of your memory.
 
 ---
 
+## 📂 Field Notes (Configuration Intel)
+
+Surveillance recovered the following details:  
+
+- 🖥️ PC-A → 192.168.1.10 /24, gateway 192.168.1.1  
+- 🖥️ PC-B → 192.168.1.11 /24, gateway 192.168.1.1  
+- 🌐 Router R1 → G0/0: 192.168.1.1 /24, G0/1: 10.0.0.1 /24  
+
+These values are verified. Use them during your mission.  
+
+---
+
 ## ⚠️ Directive — Rules of Engagement  
 - This is a **controlled training simulation**.  
 - Follow standard procedure — no shortcuts.  
