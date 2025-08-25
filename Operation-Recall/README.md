@@ -1,3 +1,9 @@
+## 📂 File Details  
+- **Assigned Agent:** Mr. Green 🟢  
+- **Status:** TRAINING SIMULATION  
+- **Threat Actor:** None (self-recovery exercise)  
+
+---
 
 ## 📜 Mission Briefing  
 Agent Green 🟢, after a mission accident your memory has been fragmented.  
