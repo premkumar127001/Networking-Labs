@@ -31,11 +31,15 @@ A stolen Key is hidden in the network. Track down the villain Mr. Blue, recover 
 3. Read the mission briefing inside the lab’s folder (README.md).
 4. Play the mission and complete the objectives.
 
+---
+
 ## 🛠️ Requirements
 
 Cisco Packet Tracer (latest version recommended)
 
 Basic networking knowledge (ARP, MAC tables, troubleshooting commands)
+
+---
 
 ## 🏆 Future Labs
 
