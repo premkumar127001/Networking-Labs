@@ -29,13 +29,30 @@ Each completed exercise restores fragments of your memory.
 
 ## 📂 Field Notes (Configuration Intel)
 
-Surveillance recovered the following details:  
+The agency has recovered the following technical details for this mission:  
 
-- 🖥️ PC-A → 192.168.1.10 /24, gateway 192.168.1.1  
-- 🖥️ PC-B → 192.168.1.11 /24, gateway 192.168.1.1  
-- 🌐 Router R1 → G0/0: 192.168.1.1 /24, G0/1: 10.0.0.1 /24  
+- 🖥️ **PC0**  
+  - IP Address: 192.168.1.10  
+  - Subnet Mask: 255.255.255.0  
+  - Default Gateway: 192.168.1.1  
 
-These values are verified. Use them during your mission.  
+- 🖥️ **PC1**  
+  - IP Address: 192.168.2.10  
+  - Subnet Mask: 255.255.255.0  
+  - Default Gateway: 192.168.2.1  
+
+- 🌐 **Router (R1)**  
+  - Interface Gi0/0/0 → 192.168.1.1 /24  
+  - Interface Gi0/0/1 → 192.168.2.1 /24  
+
+---
+
+## 🏆 Verification Task  
+
+- Ping from **PC0 → PC1**  
+- Ping from **PC1 → PC0**  
+
+Mission is complete only if both pings succeed.  
 
 ---
 
