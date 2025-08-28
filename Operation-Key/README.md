@@ -9,9 +9,9 @@
 ## 📜 Mission Briefing  
 Agent Green, a vital **Key** has been stolen by Mr. Blue, who plans to sell it on the black market.  
 
-📡 Surveillance traced his device to **IP address: `192.168.1.10`** — inside a network full of PCs, laptops, servers, and printers. Only one of those devices belongs to Mr. Blue, and inside it lies the **Code** you need to reclaim the Key.  
+📡 Surveillance traced his device to **IP address: `192.168.1.252`** — inside a network full of PCs, laptops, servers, and printers. Only one of those devices belongs to Mr. Blue, and inside it lies the **Code** you need to reclaim the Key.  
 
-Your mission: infiltrate the network, locate Mr. Blue's device, extract the **Code**, and then enter the Code in your web browser at **lock&key.local** .  
+Your mission: infiltrate the network, locate Mr. Blue's device, extract the **Code**, and then enter the Code in your web browser at **`key.local`** .  
 
 ---
 
@@ -32,10 +32,15 @@ Unauthorized access will compromise the mission.
 ---
 
 ## 🏆 Mission Success Criteria  
-- ✔️ Target device confirmed at `192.168.1.10`  
+- ✔️ Target device confirmed at `192.168.1.252`  
 - ✔️ Code successfully retrieved  
 - ✔️ Code entered as text on **lock&key.local**  
 
 Upon success, this file will be stamped:  
 **“MISSION COMPLETE — AGENT GREEN RECOVERED THE KEY.”**  
 
+---
+
+## 📜 Attribution  
+This lab is part of the **[Networking-Labs](https://github.com/premkumar127001/Networking-Labs)** project by *Prem Kumar*.  
+Licensed under **CC BY 4.0** → [View License](https://creativecommons.org/licenses/by/4.0/).
