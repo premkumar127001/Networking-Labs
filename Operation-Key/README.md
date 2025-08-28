@@ -11,7 +11,7 @@ Agent Green, a vital **Key** has been stolen by Mr. Blue, who plans to sell it o
 
 📡 Surveillance traced his device to **IP address: `192.168.1.252`** — inside a network full of PCs, laptops, servers, and printers. Only one of those devices belongs to Mr. Blue, and inside it lies the **Code** you need to reclaim the Key.  
 
-Your mission: infiltrate the network, locate Mr. Blue's device, extract the **Code**, and then enter the Code in your web browser at **`key.local`** .  
+Your mission: infiltrate the network, locate Mr. Blue's device, extract the **Code**, and then enter the Code in your web browser at **`keyportal.test`** .  
 
 ---
 
@@ -32,9 +32,8 @@ Unauthorized access will compromise the mission.
 ---
 
 ## 🏆 Mission Success Criteria  
-- ✔️ Target device confirmed at `192.168.1.252`  
 - ✔️ Code successfully retrieved  
-- ✔️ Code entered as text on **lock&key.local**  
+- ✔️ Code entered as text on **`keyportal.test`**  
 
 Upon success, this file will be stamped:  
 **“MISSION COMPLETE — AGENT GREEN RECOVERED THE KEY.”**  
