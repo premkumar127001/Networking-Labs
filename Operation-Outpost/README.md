@@ -20,6 +20,13 @@ Your task: restore the network, rebuild the relay stations, and bring communicat
 
 ---
 
+## 🗺️ Mission Topology  
+<div align="center">
+  <img src="./topology.png" alt="Operation Outpost Topology" width="600">
+</div>
+
+---
+
 ## 🔐 Mission Tasks  
 
 ### Phase 1 — Relay Station Alpha  
