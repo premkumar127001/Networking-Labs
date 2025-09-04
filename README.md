@@ -18,6 +18,10 @@ Your memory is fractured after a mission accident. Complete basic networking dri
 ### 2. 🗝️ [Operation-Key](./Operation-Key)  
 A stolen Key is hidden in the network. Track down the villain Mr. Blue, recover the code, and complete your mission.  
 
+### 3. 🛰️ [Operation-Outpost](./Operation-Outpost)  
+Enemy sabotage has cut off communication with Relay Station Alpha and Relay Station Bravo.  
+Your mission: reconnect the broken links, wipe compromised configs, and rebuild the outposts to restore secure communication.  
+
 ---
 
 ## 🚀 How to Play  
